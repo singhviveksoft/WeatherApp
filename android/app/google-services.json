@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590018754009",
+    "project_id": "flutter-weatherappsecond",
+    "storage_bucket": "flutter-weatherappsecond.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590018754009:android:625901bc9532aba4ec15c8",
+        "android_client_info": {
+          "package_name": "com.example.wheather_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590018754009-t8j1kt06dapuuoumn7hida1d96rg9c8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrZ6e_HNpZQWdFV7kAulz-7vA9dkfwB6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590018754009-t8j1kt06dapuuoumn7hida1d96rg9c8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
