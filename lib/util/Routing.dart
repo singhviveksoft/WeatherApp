@@ -1,10 +1,14 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:wheather_app/view/WeatherDetailView.dart';
-import 'package:wheather_app/widgets/BottomSheet.dart';
-import 'package:wheather_app/widgets/PageView.dart';
-import 'package:wheather_app/widgets/Stack.dart';
-import 'package:wheather_app/widgets/TableCalendar.dart';
+import 'package:wheather_app/module/monthly_weather_module/presentation/widgets/BottomSheet.dart';
+import 'package:wheather_app/module/monthly_weather_module/presentation/widgets/PageView.dart';
+import 'package:wheather_app/module/monthly_weather_module/presentation/widgets/Stack.dart';
+import 'package:wheather_app/module/monthly_weather_module/presentation/widgets/TableCalendar.dart';
+
+import '../module/monthly_weather_module/presentation/view/WeatherDetailView.dart';
+
+
+
 
 class Routing {
   static const String home = '/';
